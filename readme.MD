@@ -104,5 +104,5 @@ Passionate about building scalable, reliable, and automated cloud systems.
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=manojmantha&icon=0&color=6"/>
+  <img src="https://komarev.com/ghpvc/?username=manojmantha&label=Profile%20Views&color=0e75b6&style=flat" alt="manojmantha" />
 </p>
